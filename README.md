@@ -3,4 +3,4 @@ Introduction to Bayesian data analysis content for Center for Astrostatistics (C
 
 
 
-**Note:** This repo currently hosts *preliminary* versions of the summer school content. Some content here is likely to change substantially before presentation on 7 & 8 June 2023.
+**Note:** This repo currently hosts *presented* versions of the summer school content. To remove Git's voluminous history of earlier versions, delete the hidden `.git` folder (which stops this directory from being a Git repo).
